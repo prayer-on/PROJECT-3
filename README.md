@@ -51,7 +51,7 @@ To run this project locally, you can follow these steps:
 4. Start the server:
 `npm start`
 
-<h3>Login to the web page:</h3>
+<h3>🔑 Login credentials:</h3>
 
 <div>Email: sophie.bluel@test.tld</div>
 <div>Password: S0phie</div>
