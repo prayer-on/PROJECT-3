@@ -1,8 +1,7 @@
 # PROJECT 3
 <h3>📖 Description:</h3>
 
-- A dynamic portfolio website for an interior designer.
-
+- A dynamic portfolio website for an interior designer, allowing her to easily upload and manage projects.
 
 <h3>🚀 Demo:</h3>
 
@@ -38,6 +37,7 @@
 <br>
 
 <h3>⚙️ Installation:</h3>
+
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
