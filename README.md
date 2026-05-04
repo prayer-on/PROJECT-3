@@ -5,13 +5,13 @@
 
 <h3>🚀 Demo:</h3>
 
--
+- (Coming soon !!)
 
 <h3>🛠️ Technologies:</h3>
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+) 
 
 
 <h3>💻 Functionalities:</h3>
@@ -40,16 +40,24 @@
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/prayer-on/project-3.git`
+```bash
+git clone https://github.com/prayer-on/project-3.git
+```
 
-2. Select the Backend folder:
-`cd Backend`
+3. Select the Backend folder:
+```bash
+cd Backend
+```
 
-3. Install the dependencies:
-`npm install`
+5. Install the dependencies:
+```bash
+npm install
+```
 
-4. Start the server:
-`npm start`
+7. Start the server:
+```bash
+npm start
+```
 
 <h3>🔑 Login credentials:</h3>
 
