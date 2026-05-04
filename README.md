@@ -45,17 +45,17 @@ To run this project locally, you can follow these steps:
 git clone https://github.com/prayer-on/project-3.git
 ```
 
-3. Select the Backend folder:
+2. Select the Backend folder:
 ```bash
 cd Backend
 ```
 
-5. Install the dependencies:
+3. Install the dependencies:
 ```bash
 npm install
 ```
 
-7. Start the server:
+4. Start the server:
 ```bash
 npm start
 ```
