@@ -1,4 +1,4 @@
-# PROJECT 3
+# Sophie Bluel
 <h3>📖 Description:</h3>
 
 - A dynamic portfolio website for an interior designer, allowing her to easily upload and manage projects.
