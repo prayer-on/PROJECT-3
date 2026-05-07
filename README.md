@@ -9,9 +9,9 @@
 
 <h3>🛠️ Technologies:</h3>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+) 
+- `HTML5`
+- `CSS3`
+- `JavaScript (ES6+)` 
 
 
 <h3>💻 Functionalities:</h3>
