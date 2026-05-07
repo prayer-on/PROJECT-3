@@ -45,20 +45,31 @@ To run this project locally, you can follow these steps:
 git clone https://github.com/prayer-on/project-3.git
 ```
 
-2. Select the Backend folder:
+2. Select the Project folder:
+```bash
+cd project-3
+```
+
+3. Select the Backend folder:
 ```bash
 cd Backend
 ```
 
-3. Install the dependencies:
+4. Install the dependencies:
 ```bash
 npm install
 ```
 
-4. Start the server:
+5. Start the server:
 ```bash
 npm start
 ```
+
+6. `Open the Frontend folder (manually)`
+   
+7. Open the browser:
+- `Double click the "login.html" or "index.html" file inside the Frontend folder, then select "Open with Live Server" to open the browser.`
+  
 
 <h3>🔑 Login credentials:</h3>
 
