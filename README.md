@@ -42,12 +42,12 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/prayer-on/project-3.git
+git clone https://github.com/prayer-on/sophie-bluel-website.git
 ```
 
 2. Select the Project folder:
 ```bash
-cd project-3
+cd sophie-bluel-website
 ```
 
 3. Select the Backend folder:
