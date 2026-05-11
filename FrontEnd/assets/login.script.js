@@ -13,7 +13,7 @@ user.addEventListener("submit", async (event) => {
   };
 
   try {
-    const res = await fetch("http://localhost:5678/api/users/login", {
+    const res = await fetch("https://sophie-bluel-backend-h0j6.onrender.com/api/users/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(data),

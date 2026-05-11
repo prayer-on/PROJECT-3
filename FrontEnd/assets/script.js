@@ -1,5 +1,5 @@
 let categories = () => {
-  fetch("http://localhost:5678/api/categories")
+  fetch("https://sophie-bluel-backend-h0j6.onrender.com/api/categories")
     .then((res) => res.json())
     .then((data) => {
       console.log(data);
@@ -29,7 +29,7 @@ let categories = () => {
 categories();
 
 let loadGallery = () => {
-  fetch("http://localhost:5678/api/works")
+  fetch("https://sophie-bluel-backend-h0j6.onrender.com/api/works")
     .then((res) => res.json())
     .then((data) => {
       console.log(data);
@@ -75,7 +75,7 @@ async function deleteImage(id) {
   console.log(id);
 
   try {
-    const res = await fetch(`http://localhost:5678/api/works/${id}`, {
+    const res = await fetch(`https://sophie-bluel-backend-h0j6.onrender.com/api/works/${id}`, {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",
@@ -259,7 +259,7 @@ async function newProject() {
   formData.append("title", titleInput.value);
   formData.append("category", categorySelect.value);
 
-  let response = await fetch("http://localhost:5678/api/works", {
+  let response = await fetch("https://sophie-bluel-backend-h0j6.onrender.com/api/works", {
     method: "POST",
     headers: {
       Authorization: `bearer ${localStorage.getItem("token")}`,

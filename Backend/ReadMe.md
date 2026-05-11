@@ -17,6 +17,6 @@ password: S0phie
 ```
 
 Link to see the
-[Swagger documentation ](http://localhost:5678/api-docs/)
+[Swagger documentation ](https://sophie-bluel-backend-h0j6.onrender.com/api-docs/)
 
 To read the documentation, use Chrome or Firefox
