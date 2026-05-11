@@ -5,7 +5,7 @@
 
 <h3>🚀 Demo:</h3>
 
-- (Coming soon !!)
+- [Live Preview](https://sophie-bluel-frontend.onrender.com)
 
 <h3>🛠️ Technologies:</h3>
 
